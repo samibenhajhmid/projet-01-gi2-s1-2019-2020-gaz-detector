@@ -1,0 +1,11 @@
+
+1) https://www.framboise314.fr/connectez-vous-de-nimporte-ou-a-votre-raspberry-pi-avec-vnc-connect/
+2) https://mindstormengg.com/nodemcu-esp8266-lab-9-mq-2-gas-sensor/?fbclid=IwAR0eEVXXWwYUedS12_pgvDIjMpbgYuwldg3ZAQsOevcGk-6eR5WVmauwjM4
+3) https://randomnerdtutorials.com/guide-for-mq-2-gas-smoke-sensor-with-arduino/
+4) https://techtutorialsx.com/2016/07/17/esp8266-http-get-requests/
+5) https://www.framboise314.fr/connectez-vous-de-nimporte-ou-a-votre-raspberry-pi-avec-vnc-connect/
+6) https://www.hackster.io/Surilli-io/smoke-and-gas-detection-using-mq-2-sensor-and-piezo-buzzer-a6decc
+7) https://www.instructables.com/id/ESP8266-GMail-Sender/
+8) https://github.com/CosmicBoris/ESP8266SMTP
+9) http://www.geekstips.com/esp8266-email-and-push-notifications-iot-blynk/
+10) https://www.youtube.com/watch?v=CU26W8CXpeE
